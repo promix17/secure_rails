@@ -5,8 +5,8 @@ Basics:
 - https://rails-sqli.org/
 - https://www.owasp.org/images/9/96/OWASP_Top_10-2017-ru.pdf
 - https://xakep.ru/2013/12/03/ruby-on-rails-safe-problem/
-- checklist https://github.com/eliotsykes/rails-security-checklist
-- owasp cheatsheet https://cheatsheetseries.owasp.org/cheatsheets/Ruby_on_Rails_Cheatsheet.html
+- Checklist https://github.com/eliotsykes/rails-security-checklist
+- OWASP cheatsheet https://cheatsheetseries.owasp.org/cheatsheets/Ruby_on_Rails_Cheatsheet.html
 
 Specific:
 - Nginx config https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf
@@ -17,9 +17,9 @@ Specific:
 
 Tools:
 - Static code analysis https://github.com/presidentbeef/brakeman
-- Exploit Race Conditions https://github.com/racepwn/racepwn
-- Scan Dockers https://docs.docker.com/ee/dtr/user/manage-images/scan-images-for-vulnerabilities/
-- Git Secrets https://github.com/awslabs/git-secrets
+- Exploit race conditions https://github.com/racepwn/racepwn
+- Scan dockers https://docs.docker.com/ee/dtr/user/manage-images/scan-images-for-vulnerabilities/
+- GIT secrets https://github.com/awslabs/git-secrets
 - WAF https://modsecurity.org/
 - WAF https://wallarm.com/
 - Dynamic code analysis https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
