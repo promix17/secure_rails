@@ -1,6 +1,7 @@
 # Ruby On Rails Secuirity Cheat Sheet
 
 Slides
+
 https://docs.google.com/presentation/d/e/2PACX-1vTEZLa5YJ9ZySeUEV7iaEi4xc3ZOqu_WfmUxlZMt6lyjy5rPU3rfSNS_1bb6LxiVPohslQ9XihjISE4/pub?start=false&loop=false&delayms=3000
 
 Basics
