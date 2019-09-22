@@ -17,4 +17,7 @@ Specific:
 Tools:
 - Static code analysis https://github.com/presidentbeef/brakeman
 - Exploit Race Conditions https://github.com/racepwn/racepwn
-- 
+- Scan Dockers https://docs.docker.com/ee/dtr/user/manage-images/scan-images-for-vulnerabilities/
+- Git Secrets https://github.com/awslabs/git-secrets
+- WAF https://modsecurity.org/ https://wallarm.com/
+- Dynamic code analysis https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project https://wallarm.com/products/fast
