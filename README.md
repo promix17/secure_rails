@@ -9,6 +9,7 @@ Basics
 - https://rails-sqli.org/
 - https://www.owasp.org/images/9/96/OWASP_Top_10-2017-ru.pdf
 - https://xakep.ru/2013/12/03/ruby-on-rails-safe-problem/
+- Races http://youtu.be/AYWiRVdJFTI
 - Checklist https://github.com/eliotsykes/rails-security-checklist
 - OWASP cheatsheet https://cheatsheetseries.owasp.org/cheatsheets/Ruby_on_Rails_Cheatsheet.html
 
